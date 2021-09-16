@@ -1,3 +1,5 @@
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/@msikma%2Fwiki-ly.svg)](https://badge.fury.io/js/@msikma%2Fwiki-ly)
+
 # Wiki.ly
 
 Wiki.ly is a fork of Mediawiki's [Parsoid](https://github.com/wikimedia/parsoid) project. It's a PEG-based parser that converts wikitext to a Javascript object.
